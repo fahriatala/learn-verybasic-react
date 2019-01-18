@@ -8,9 +8,9 @@ import UserOutput from './UserOutput/UserOutput';
 class App extends Component {
   state = {
     persons: [
-      { username: 'Bro'},
-      { username: 'Dhani'},
-      { username: 'Singgih'}
+      { username: 'John'},
+      { username: 'Francesc'},
+      { username: 'Marq'}
     ],
     note: '',
   }
